@@ -1,3 +1,5 @@
+//Subintendente Emerson Ussa Aranda cc. 1061537673
+
 const txtResultado = document.getElementById('txtResultado');
 const btnNumeros = document.querySelectorAll('.btn-numero');
 const btnOperadores = document.querySelectorAll('.btn-operador');
